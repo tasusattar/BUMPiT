@@ -1,0 +1,94 @@
+# Unity-generated folders/files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Pp]rojectSettings/
+[Bb]UMPit-SKU.itmsp/
+*.log
+
+# Crash and Memory Captures
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Plugin/External Dependency: Android & iOS build caches, Gradle, etc.
+.gradle/
+*.apk
+*.aab
+*.app
+
+# IDE files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash/analytics generated files
+crashlytics-build.properties
+mono_crash.*
+
+# Addressables & cache
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Visual Scripting
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# iOS/Android-specific artifacts
+Pods/
+Podfile.lock
+DerivedData/
+xcuserdata/
+*.xcworkspace
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.xcuserstate
+
+# Uncomment if using Asset Store tools
+# /Assets/AssetStoreTools*
+
+# JetBrains Rider plugin and settings
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# Auto-generated scenes/tests
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Unity packages
+*.unitypackage
+*.unitypackage.meta
+
+# AdMob/GoogleMobileAds: lock and intermediate files if using CocoaPods
+/Assets/ExternalDependencyManager/
+/Assets/GoogleMobileAds/
+/Assets/Plugins/Android/googlemobileads-unity.aar
+/Assets/Plugins/Android/GoogleMobileAdsPlugin
+/Assets/Plugins/iOS/GADUAdNetworkExtras
+/Assets/Plugins/iOS/unity-plugin-library.a
+Pods/
+Podfile.lock
+
+
+.keystore
+.csproj
