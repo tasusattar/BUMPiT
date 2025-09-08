@@ -7,7 +7,6 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 [Pp]rojectSettings/
-[Bb]UMPit-SKU.itmsp/
 *.log
 
 # Crash and Memory Captures
@@ -89,6 +88,6 @@ xcuserdata/
 Pods/
 Podfile.lock
 
-
-.keystore
-.csproj
+[Bb]UMPit-SKU1.itmsp/
+keystoreStuff.keystore
+*.csproj
